@@ -29,8 +29,8 @@ A simple HTML project to practice HTML tags like IMG and A. Also, to learn about
 - [x] Update README author
 - [x] Create fish.html
 - [x] Create 3 images
-- [ ] Create 3 links to websites
-- [ ] Express creativity
+- [x] Create 3 links to websites
+- [x] Express creativity
 
 ### Bonus and Extension
 
